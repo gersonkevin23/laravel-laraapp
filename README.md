@@ -103,10 +103,6 @@ If you discover any security related issues, please email agordon@woosignal.com 
 - [Anthony Gordon](https://twitter.com/anthonygordn)
 - [All Contributors](../../contributors)
 
-## Support us
-
-WooSignal is a development team based in the UK, we do mobile and web applications [on our website](https://woosignal.com).
-
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
