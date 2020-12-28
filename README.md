@@ -98,11 +98,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 If you discover any security related issues, please email tech.toolbox.project@gmail.com instead of using the issue tracker.
 
-## Credits
-
-- [Anthony Gordon](https://twitter.com/anthonygordn)
-- [All Contributors](../../contributors)
-
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
