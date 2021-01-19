@@ -1,7 +1,4 @@
 # LaraApp for Laravel, a pocket friendly IOS & Android companion app.
-
-[Official LaraApp package](https://thelara.app)
-<br>
 <br>
 Link your smartphone to your Laravel project with LaraApp. 
 Our package enables you to manage your project on the go, some features include:
@@ -78,7 +75,6 @@ protected $except = [
 ```
 
 ## Testing
-Try and access https://mysite.com/lara-app/link
 If you can access this then the setup is ready for the mobile app to connect too.
 <br>
 If you can't access the route (seeing 404/403 error), try running the following.
